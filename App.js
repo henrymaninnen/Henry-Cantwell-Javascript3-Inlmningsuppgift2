@@ -1,9 +1,8 @@
-import {Routes, Route, useNavigate} from 'react-router-dom'
+import {Routes, Route} from 'react-router-dom'
 import Home from './pages/Home';
 import Post from './pages/Post';
 
 function App() {
-
 
   return (
     <div className='App'>
